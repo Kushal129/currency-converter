@@ -15,3 +15,5 @@ A simple and versatile currency converter web application built with Vite, React
 ## Acknowledgments
    - Exchange Rate data provided by [Exchange Rate API](https://www.exchangerate-api.com/).
    - Country flags provided by [Flagpedia.net](https://flagpedia.net/download/api).
+
+## I addressed some issues in the project and fixed a few bugs. 
